@@ -3,12 +3,12 @@
 set -e
 
 # TERRAFORM INSTALLER - Automated Terraform Installation
-#   Apache 2 License - Copyright (c) 2018  Robert Peteuil  @RobertPeteuil
+#   
 #
 #     Automatically Download, Extract and Install
 #        Latest or Specific Version of Terraform
 #
-#   from: https://github.com/robertpeteuil/terraform-installer
+
 
 # Uncomment line below to always use 'sudo' to install to /usr/local/bin/
 # sudoInstall=true
